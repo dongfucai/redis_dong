@@ -1,4 +1,4 @@
-//package meituan.dong.redis.mock;
+//package org.dong.redis.mock;
 //
 ///**
 // * @Package Name : ${PACKAG_NAME}

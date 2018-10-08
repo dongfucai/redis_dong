@@ -1,4 +1,4 @@
-package meituan.dong.redis;
+package org.dong.redis;
 
 /**
  * @Package Name : ${PACKAG_NAME}

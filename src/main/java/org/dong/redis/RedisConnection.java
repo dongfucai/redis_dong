@@ -1,4 +1,4 @@
-package meituan.dong.redis;
+package org.dong.redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

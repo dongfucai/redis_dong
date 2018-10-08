@@ -1,7 +1,7 @@
-package meituan.dong.redis.test;
+package org.dong.redis.test;
 
-import meituan.dong.redis.RedisConnection;
-import meituan.dong.redis.impl.LockServiceImpl;
+import org.dong.redis.RedisConnection;
+import org.dong.redis.impl.LockServiceImpl;
 
 /**
  * @Package Name : ${PACKAG_NAME}

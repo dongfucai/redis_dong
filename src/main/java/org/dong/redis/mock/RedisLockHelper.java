@@ -1,4 +1,4 @@
-//package meituan.dong.redis.mock;
+//package org.dong.redis.mock;
 //
 ///**
 // * @Package Name : ${PACKAG_NAME}
@@ -9,7 +9,7 @@
 //
 //
 //
-//import meituan.dong.redis.impl.LockServiceImpl;
+//import LockServiceImpl;
 //import org.apache.commons.logging.Log;
 //import org.apache.commons.logging.LogFactory;
 //import org.apache.log4j.spi.LoggerFactory;

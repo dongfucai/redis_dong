@@ -1,7 +1,7 @@
-package meituan.dong.redis.impl;
+package org.dong.redis.impl;
 
-import meituan.dong.redis.LockService;
-import meituan.dong.redis.RedisConnection;
+import org.dong.redis.LockService;
+import org.dong.redis.RedisConnection;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import redis.clients.jedis.Jedis;

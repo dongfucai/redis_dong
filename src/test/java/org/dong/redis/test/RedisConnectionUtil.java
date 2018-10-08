@@ -1,13 +1,13 @@
-package meituan.dong.redis.test;
+package org.dong.redis.test;
 
-import meituan.dong.redis.RedisConnection;
+import org.dong.redis.RedisConnection;
 import redis.clients.jedis.JedisPoolConfig;
 
 import java.util.Date;
 
 /**
  * @Package Name : ${PACKAG_NAME}
- * @Author : 1766318593@meituan.com
+ * @Author : 1766318593@qq.com
  * @Creation Date : 2018年09月24日下午2:09
  * @Function : todo
  */
@@ -32,6 +32,8 @@ public class RedisConnectionUtil {
         System.out.println("curruent ms:"+System.currentTimeMillis());
         Thread.sleep(1000);
         System.out.println(new Date().getTime());
+
+        System.out.println(System.getProperty("dong"));
 
     }
 }
